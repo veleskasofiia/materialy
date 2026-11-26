@@ -3,6 +3,9 @@
 Výukové materiály kurzu programování v Pythonu pro začátečnice.
 Běh **podzim 2026**, 13 lekcí.
 
+Web kurzu: [pyladiesprague.cz](https://pyladiesprague.cz) · Kontakt:
+[info@pyladiesprague.cz](mailto:info@pyladiesprague.cz)
+
 ## Jak si materiály stáhnout
 
 Nahoře klikni na zelené tlačítko **Code** → **Download ZIP**. Stažený archiv
@@ -24,6 +27,7 @@ přidávají, ty starší zůstávají beze změny.
 | 7 | `lekce07-procvicovani-a-debugging/` | čtení chybových hlášek, debugger ve VS Code |
 | 8 | `lekce08-seznamy-a-n-tice/` | seznamy, metody seznamů, n-tice, rozbalování |
 | 9 | `lekce09-slovniky/` | slovníky, počítání a skupiny, záznamy |
+| 10 | `lekce10-procvicovani/` | seznam seznamů, projekty Kino a Násobilka |
 
 
 Další lekce přibývají v průběhu kurzu.
@@ -56,7 +60,8 @@ Soubory s výkladem procházej popořadě podle čísla, spouštěj je tlačítk
 ## Pro autory
 
 Z materiálů se automaticky generuje web kurzu
-([pyladiesprague/public-pages](https://github.com/pyladiesprague/public-pages)),
+[pyladiesprague.cz](https://pyladiesprague.cz)
+(repo [pyladiesprague/public-pages](https://github.com/pyladiesprague/public-pages)),
 proto musí soubory dodržet formát, který převod umí přečíst:
 
 - Výklad `NN_nazev.py` začíná titulkem mezi dvěma řádky `# ---`.
